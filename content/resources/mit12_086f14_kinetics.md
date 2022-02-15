@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding modeling environmental
   complexity, lecture 22-25.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-086-modeling-environmental-complexity-fall-2014/c880e0cfdce96923ff4f446796c593dd_MIT12_086F14_kinetics.pdf
+file: /media/courses/12-086-modeling-environmental-complexity-fall-2014/c880e0cfdce96923ff4f446796c593dd_MIT12_086F14_kinetics.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Modeling Environmental Complexity, Lecture 22-25
 uid: c880e0cf-dce9-6923-ff4f-446796c593dd
