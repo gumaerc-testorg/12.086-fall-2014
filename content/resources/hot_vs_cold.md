@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3f82eefe-c5fd-788b-0998-bf9a1c30df5f
 resourcetype: Other
 title: hot_vs_cold.m
 uid: b1a9f0df-5c5f-908b-b05c-e5a6374e58e3

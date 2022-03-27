@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3f82eefe-c5fd-788b-0998-bf9a1c30df5f
 resourcetype: Other
 title: random_walk.m
 uid: 489fa3a4-ae2e-dfe1-a9aa-225766b3164d

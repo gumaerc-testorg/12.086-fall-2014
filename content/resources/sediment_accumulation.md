@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3f82eefe-c5fd-788b-0998-bf9a1c30df5f
 resourcetype: Other
 title: sediment_accumulation.m
 uid: c1208faf-992c-09a7-170f-e869f2d4b9eb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3f82eefe-c5fd-788b-0998-bf9a1c30df5f
 resourcetype: Other
 title: slow_fraction.m
 uid: 94f5cd6e-3edb-9806-4dc2-77b9f75add61
