@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, topics, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 450081b6-413c-c8a3-d1db-afaedae9c722
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Students should have completed [_18.03SC Differential Equations_](/courses/18-03sc-differential-equations-fall-2011/) or its equivalent and have some familiarity with partial differential equations.
+Students should have completed [_18.03SC Differential Equations_](/courses/18-03sc-differential-equations-fall-2011) or its equivalent and have some familiarity with partial differential equations.
 
 Description
 -----------
