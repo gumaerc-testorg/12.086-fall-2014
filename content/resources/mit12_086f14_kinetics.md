@@ -6,6 +6,7 @@ file: /courses/12-086-modeling-environmental-complexity-fall-2014/c880e0cfdce969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Modeling Environmental Complexity, Lecture 22-25
 uid: c880e0cf-dce9-6923-ff4f-446796c593dd
 ---
 This resource contains the information regarding modeling environmental complexity, lecture 22-25.
-

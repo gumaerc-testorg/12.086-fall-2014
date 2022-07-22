@@ -4,6 +4,7 @@ description: This resource contains the information regarding random_walk.m.
 file: /courses/12-086-modeling-environmental-complexity-fall-2014/489fa3a4ae2edfe1a9aa225766b3164d_random_walk.m
 file_type: text/x-objcsrc
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: random_walk.m
 uid: 489fa3a4-ae2e-dfe1-a9aa-225766b3164d
 ---
 This resource contains the information regarding random_walk.m.
-
