@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding first_return.m.
 file: /courses/12-086-modeling-environmental-complexity-fall-2014/db6437a621c3858a2fd873ed85885167_first_return.m
+file_size: 1160
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

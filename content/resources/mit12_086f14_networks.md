@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding modeling environmental
   complexity, lecture 19.
 file: /courses/12-086-modeling-environmental-complexity-fall-2014/f6da02f74cb40f089e00d3f08d7fef50_MIT12_086F14_networks.pdf
+file_size: 408005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
