@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding modeling environmental
   complexity, lecture 12-18.
-file: /courses/12-086-modeling-environmental-complexity-fall-2014/a8b26843ad438d5f648b3b0330193d02_MIT12_086F14_percolation.pdf
+file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/a8b26843ad438d5f648b3b0330193d02_MIT12_086F14_percolation.pdf
 file_size: 475610
 file_type: application/pdf
 learning_resource_types:
