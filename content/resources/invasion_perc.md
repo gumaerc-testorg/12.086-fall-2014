@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding invasion_perc.m.
-file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/ede26bf434351193d6cf5f43542ee4b4_invasion_perc.m
+file: /courses/12-086-modeling-environmental-complexity-fall-2014/ede26bf434351193d6cf5f43542ee4b4_invasion_perc.m
 file_size: 4112
 file_type: text/x-objcsrc
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding modeling environmental
   complexity, Lecture 2-5.
-file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/32303be6bc9b21df2280be1f41eb5c24_MIT12_086F14_twolevels.pdf
+file: /courses/12-086-modeling-environmental-complexity-fall-2014/32303be6bc9b21df2280be1f41eb5c24_MIT12_086F14_twolevels.pdf
 file_size: 398567
 file_type: application/pdf
 learning_resource_types:
