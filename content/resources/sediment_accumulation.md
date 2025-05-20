@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding sediment_accumulation.m.
-file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/c1208faf992c09a7170fe869f2d4b9eb_sediment_accumulation.m
+file: /courses/12-086-modeling-environmental-complexity-fall-2014/c1208faf992c09a7170fe869f2d4b9eb_sediment_accumulation.m
 file_size: 1495
 file_type: text/x-objcsrc
 learning_resource_types: []

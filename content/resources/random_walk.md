@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding random_walk.m.
-file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/489fa3a4ae2edfe1a9aa225766b3164d_random_walk.m
+file: /courses/12-086-modeling-environmental-complexity-fall-2014/489fa3a4ae2edfe1a9aa225766b3164d_random_walk.m
 file_size: 1106
 file_type: text/x-objcsrc
 learning_resource_types: []
