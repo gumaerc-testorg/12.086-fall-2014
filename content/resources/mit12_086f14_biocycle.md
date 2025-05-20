@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding modeling environmental
   complexity, lecture 20-21.
-file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/e713a344f2556825a778cacd95c2c732_MIT12_086F14_biocycle.pdf
+file: /courses/12-086-modeling-environmental-complexity-fall-2014/e713a344f2556825a778cacd95c2c732_MIT12_086F14_biocycle.pdf
 file_size: 260952
 file_type: application/pdf
 learning_resource_types:
