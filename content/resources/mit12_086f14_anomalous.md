@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding modeling environmental
   complexity, lecture 10-11.
-file: /courses/12-086-modeling-environmental-complexity-fall-2014/07e6d13519c6a1847639ad91820b7865_MIT12_086F14_anomalous.pdf
+file: /ol-ocw-studio-app/courses/12-086-modeling-environmental-complexity-fall-2014/07e6d13519c6a1847639ad91820b7865_MIT12_086F14_anomalous.pdf
 file_size: 225846
 file_type: application/pdf
 learning_resource_types:
